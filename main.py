@@ -1,7 +1,7 @@
 import json
 import time
 
-filepath = "D:\\projects\\account system\\users.json" ## stores filepath of the .json file
+filepath = "users.json" ## stores filepath of the .json file
 
 # functions
 def menu():
